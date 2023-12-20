@@ -11,7 +11,7 @@ class CiServiceTest {
     @Test
     void somar() {
         Integer valor1 = 1;
-        Integer valor2 = 2;
+        Integer valor2 = 1;
 
         Integer resultado = service.somar(valor1, valor2);
 
